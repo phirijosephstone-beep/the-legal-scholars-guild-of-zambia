@@ -1,0 +1,26 @@
+/* Mobile-first layout adjustments at the requested breakpoints. */
+@media (min-width: 480px) {
+  .grid-2, .grid-3, .grid-4 { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .logo-strip { grid-template-columns: repeat(3, 1fr); }
+  .stat-grid { grid-template-columns: repeat(4, 1fr); }
+  .form-grid.two-col { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+
+@media (min-width: 768px) {
+  .grid-3 { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+  .footer-grid { grid-template-columns: 1.3fr 1fr 1fr; }
+  .split { grid-template-columns: 1fr 1fr; gap: 3rem; }
+  .timeline { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .logo-strip { grid-template-columns: repeat(4, 1fr); }
+}
+
+@media (min-width: 1024px) {
+  .menu-toggle { display: none; }
+  .primary-nav { display: block; position: static; padding: 0; border: 0; background: transparent; }
+  .primary-nav ul { display: flex; flex-wrap: wrap; align-items: center; justify-content: flex-end; gap: .1rem .75rem; }
+  .primary-nav a { padding: .5rem .05rem; font-size: .76rem; }
+  .grid-4 { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+  .footer-grid { grid-template-columns: 1.25fr 1fr 1fr 1.3fr; }
+  .timeline { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+  .container { width: min(var(--content), calc(100% - 4rem)); }
+}

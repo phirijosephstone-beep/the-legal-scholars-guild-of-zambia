@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Andrew Simutinta",
+    "position": "President",
+    "institution": "University of Lusaka, School of Law",
+    "photo": "images/leaders/7th%20President%20and%20current%20andrew%20simutinta.jpg",
+    "bio":  [
+    "Andrew Simutinta is a law student at the University of Lusaka, where he previously served as President of the University of Lusaka Law Association. He has since taken on national leadership as President of the Legal Scholars' Guild of Zambia, having earlier served the Guild as Regional Coordinator for Lusaka-South, overseeing activities across several law schools.",
+    "He has built practical legal experience as an intern at Chalwe and Kabalata Legal Practitioners, combining academic study with exposure to legal practice.",
+    "Outside the courtroom and lecture hall, Andrew is a creative voice in Zambia's arts scene. Performing as \"Acentric Poetry\", he is a recognised spoken word poet who has been featured by the National Arts Council of Zambia and has performed at events including the National Arts Festival. He is also an actor and digital creator."
+  ],
+  "achievements": [
+    "Former President, University of Lusaka Law Association",
+    "Former Regional Coordinator (Lusaka-South), Legal Scholars' Guild of Zambia",
+    "Featured spoken word poet, National Arts Council of Zambia",
+    "Performer at the National Arts Festival",
+    "Legal intern, Chalwe and Kabalata Legal Practitioners"
+  ]
+  },
+  {
+    "name": "Joseph Stone Phiri",
+    "position": "Vice President",
+    "institution": "University of Lusaka, School of Law",
+    "photo": "images/leaders/3rd%20Vice%20president%20and%20current%20joseph%20s.%20phiri.jpg",
+    "bio": [
+    "Joseph Stone Phiri is a law student at the University of Lusaka and Vice President of the Legal Scholars' Guild of Zambia. He is active in student leadership at both national and continental level, serving as National Director of the African Law Students' Association (ALSA) Zambia Chapter, where he works to improve legal education and collaboration among law students across Africa.",
+    "He chairs the University of Lusaka chapter of the Zambian Law Student Journal and is Secretary and Administrative Lead of Law Bridge Zambia. He also works with Justice Lab Zambia to promote access to justice and legal aid.",
+    "As President of The Conservatives Zambia, a youth movement focused on empowerment, governance reform and civic education, he leads initiatives such as the Cornerstone Workshop, which offers free constitutional literacy and mentorship to young people.",
+    "Joseph is also a Legal Editor at AMULUFEBLOG, where he publishes essays analysing Zambian constitutional amendments, parliamentary supremacy and legislative procedure."
+    ],
+  "achievements": [
+    "National Director, ALSA Zambia Chapter",
+    "Chairperson, Zambian Law Student Journal (UNILUS Chapter)",
+    "President, The Conservatives Zambia (Cornerstone Workshop)",
+    "Secretary and Administrative Lead, Law Bridge Zambia",
+    "Legal Editor, AMULUFEBLOG"
+  ]
+  },
+  {
+    "name": "Dunice Mabomba",
+    "position": "Secretary General-Elect",
+    "institution": "Kwame Nkrumah University, School of Law",
+    "photo": "images/leaders/current%20general%20secreatary%20dunice%20maboma.jpg",
+    "bio": [
+    "Dunice Mwape Maboma is a Bachelor of Laws student at Kwame Nkrumah University in Kabwe and Secretary General of the Legal Scholars' Guild of Zambia, the national platform connecting law students across the country. Before her national role, she served the Guild as Publicity Secretary and as Deputy Regional Coordinator for Central Province. Her leadership has been recognised by the Kwame Nkrumah University Law Association (KNULA).",
+    "At university level, she has held office in the student judicial framework as Chief Justice of the KWANASU Judiciary.",
+    "Beyond law, Dunice is a youth advocate for sustainable development. As Membership Coordinator in the Youth Mobilization Department of Youths On Sustainable Development (YSD), she champions the UN Sustainable Development Goals, particularly SDG 1 (No Poverty), SDG 2 (Zero Hunger) and SDG 6 (Clean Water and Sanitation). She has also co-hosted programmes on Radio Maria 92.7 FM in Kabwe on youth leadership and development."
+  ],
+  "achievements": [
+    "Secretary General, Legal Scholars' Guild of Zambia",
+    "Former Publicity Secretary and Deputy Regional Coordinator (Central Province), LSGZ",
+    "Chief Justice, KWANASU Judiciary",
+    "Membership Coordinator, Youths On Sustainable Development",
+    "Radio co-host, Radio Maria 92.7 FM Kabwe"
+  ]
+  }
+]

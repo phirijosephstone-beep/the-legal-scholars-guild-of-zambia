@@ -1,0 +1,29 @@
+[
+  {
+    "number": 1,
+    "name": "[EDIT ME]",
+    "term": "[EDIT ME]",
+    "servedUnder": "[EDIT ME]",
+    "institution": "[EDIT ME]",
+    "photo": "",
+    "bio": "[EDIT ME: add verified name, institution, term, president served under and approved biography.]"
+  },
+  {
+    "number": 2,
+    "name": "Lusekelo Kamfya",
+    "term": "[EDIT ME]",
+    "servedUnder": "[EDIT ME]",
+    "institution": "[EDIT ME]",
+    "photo": "images/past%20vice%20presidents/2nd%20vice%20president%20Lusekelo%20Kamfya.jpg",
+    "bio": "[EDIT ME: add verified institution, term, president served under and approved biography.]"
+  },
+  {
+    "number": 3,
+    "name": "[EDIT ME]",
+    "term": "[EDIT ME]",
+    "servedUnder": "[EDIT ME]",
+    "institution": "[EDIT ME]",
+    "photo": "",
+    "bio": "[EDIT ME: add verified name, institution, term, president served under and approved biography.]"
+  }
+]
